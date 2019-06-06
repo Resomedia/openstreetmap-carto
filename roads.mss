@@ -1,28 +1,28 @@
 /* For the main linear features, such as roads and railways. */
 
-@tertiary-fill: #ffffff;
-@residential-fill: #ffffff;
+@tertiary-fill: #000000;
+@residential-fill: #000000;
 @service-fill: @residential-fill;
-@living-street-fill: #ededed;
-@pedestrian-fill: #dddde8;
-@raceway-fill: pink;
-@road-fill: #ddd;
-@footway-fill: salmon;
-@footway-fill-noaccess: #bbbbbb;
+@living-street-fill: green;
+@pedestrian-fill: green;
+@raceway-fill: green;
+@road-fill: green;
+@footway-fill: green;
+@footway-fill-noaccess: green;
 @steps-fill: @footway-fill;
-@steps-fill-noaccess: #bbbbbb;
-@cycleway-fill: blue;
-@cycleway-fill-noaccess: #9999ff;
+@steps-fill-noaccess: green;
+@cycleway-fill: green;
+@cycleway-fill-noaccess: green;
 @bridleway-fill: green;
-@bridleway-fill-noaccess: #aaddaa;
-@track-fill: #996600;
-@track-fill-noaccess: #e2c5bb;
-@aeroway-fill: #bbc;
+@bridleway-fill-noaccess: green;
+@track-fill: green;
+@track-fill-noaccess: green;
+@aeroway-fill: green;
 @runway-fill: @aeroway-fill;
 @taxiway-fill: @aeroway-fill;
 @helipad-fill: @aeroway-fill;
-@access-marking: #eaeaea;
-@access-marking-living-street: #cccccc;
+@access-marking: green;
+@access-marking-living-street: green;
 
 @default-casing: white;
 @tertiary-casing: #8f8f8f;
